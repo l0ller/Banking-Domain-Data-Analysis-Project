@@ -29,29 +29,8 @@ The Power BI layer provides an executive view of the findings:
 * **Loan Analysis:** Comparative charts for Business vs. Personal lending exposure.
 * **Dynamic Filtering:** Integrated slicers allowing for deep-dives into specific age brackets and income levels.
 
-## 🚀 Getting Started
-
-### Prerequisites
-* Python 3.8+
-* Jupyter Notebook or Google Colab
-* Microsoft Power BI Desktop (to view the `.pbix` file)
-
-### Installation
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/yourusername/bank-intel-analytics.git](https://github.com/yourusername/bank-intel-analytics.git)
-    ```
-2.  **Install dependencies:**
-    ```bash
-    pip install pandas numpy seaborn matplotlib
-    ```
-3.  **Run the analysis:** Open `BankEDA.ipynb` to view the step-by-step data processing.
-
 ## 📈 Future Scope
 * **Predictive Modeling:** Implementing a Churn Prediction model to identify at-risk customers.
 * **Clustering:** Using K-Means to create automated customer segments for targeted marketing.
 * **Time-Series:** Analyzing month-over-month growth in deposit balances.
 
----
-**Author:** [Your Name]  
-**Role:** Data Analyst
